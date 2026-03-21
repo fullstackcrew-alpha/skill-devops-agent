@@ -1,6 +1,9 @@
 ---
 name: devops-agent
-description: "终极 DevOps 助手 — 一键部署、监控搭建、定时备份、故障诊断，让 Agent 成为你随叫随到的运维专家"
+description: |
+  Your on-call DevOps assistant — one-click deploy, monitoring setup, scheduled backups, and fault diagnosis.
+  Safety-first design with confirmation prompts, dry-run mode, snapshot rollback, and audit logging.
+  (中文) 一键部署、监控搭建、定时备份、故障诊断，安全公约贯穿全局。
 user_invocable: true
 argument-hint: "<command> [args...] — deploy|monitor|backup|diagnose"
 allowed-tools:
