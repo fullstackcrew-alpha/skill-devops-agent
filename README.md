@@ -2,10 +2,13 @@
 
 > Your on-call DevOps assistant. Deploy, monitor, backup, diagnose — all with safety guardrails.
 
-[![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://github.com/anthropics/claude-code)
+[![GitHub stars](https://img.shields.io/github/stars/fullstackcrew-alpha/skill-devops-agent?style=social)](https://github.com/fullstackcrew-alpha/skill-devops-agent/stargazers)
+[![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://clawhub.ai/s/devops-agent)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)]()
+[![Version](https://img.shields.io/badge/version-1.0.1-brightgreen)]()
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS-lightgrey)]()
+
+If you find this useful, please give it a star — it helps others discover it.
 
 ## Overview
 
